@@ -328,3 +328,16 @@ Cope mappings:
 Just do following:
 * Remove `~/.vim_runtime`
 * Remove any lines that reference `.vim_runtime` in your `~/.vimrc`
+
+## Customize
+Add Vim settings:
+* set nu
+* JellyBeans color scheme
+
+Add Plugins:
+* JellyBeans (https://github.com/nanotech/jellybeans.vim)
+* vim-solidity (https://github.com/tomlion/vim-solidity)
+`sh install_my_plugins.sh`
+
+Modify settings:
+* NERDTree (shortcut, position)
