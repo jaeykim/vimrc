@@ -17,7 +17,7 @@ I would, of course, recommend using the awesome version.
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following from your terminal:
 
 	git clone --depth=1 https://github.com/jaeykim/vimrc.git ~/.vim_runtime \
-    	sh ~/.vim_runtime/install_my_plugins.sh \
+    sh ~/.vim_runtime/install_my_plugins.sh \
 	sh ~/.vim_runtime/install_awesome_vimrc.sh
 	
 ### Install for multiple users
